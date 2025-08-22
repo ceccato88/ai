@@ -25,26 +25,23 @@ WORKFLOWS=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/798204?type=Model&format=SafeTensor&size=full&fp=fp16"
+
 )
 
 UNET_MODELS=(
-    "https://huggingface.co/black-forest-labs/FLUX.1-Krea-dev/resolve/main/flux1-krea-dev.safetensors"
-    "https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev/resolve/main/flux1-kontext-dev.safetensors"
-    "https://huggingface.co/denibali123/FluxSigma_VisionAlpha1_fp16/resolve/main/fluxSigmaVision_fp16.safetensors"
+
 )
 
 LORA_MODELS=(
-    "https://huggingface.co/strangerzonehf/Flux-Super-Realism-LoRA/resolve/main/super-realism.safetensors"
-    "https://huggingface.co/agenciawow/my_first_flux_lora_v1/resolve/main/my_first_flux_lora_v1/my_first_flux_lora_v1.safetensors"
+
 )
 
 VAE_MODELS=(
-    "https://huggingface.co/black-forest-labs/FLUX.1-Krea-dev/resolve/main/ae.safetensors"
+
 )
 
 ESRGAN_MODELS=(
-    "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth"
+
 )
 
 CONTROLNET_MODELS=(
@@ -52,8 +49,7 @@ CONTROLNET_MODELS=(
 
 # CLIP/Text Encoders (downloaded to clip folder)
 CLIP_MODELS=(
-    "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors"
-    "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors"
+
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
